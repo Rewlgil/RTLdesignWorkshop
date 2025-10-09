@@ -7,3 +7,4 @@ Design files for RTL Design Workshop
 - Debian Trixie
 - `iverilog` and `gtkwave` installed with `sudo apt update; sudo apt install iverilog gtkwave -y`
 - see `design/test.sh` for commands to run a simple design `mux21.v` and its testbench `mux21_tb.v`
+- see PDF files in `slides` for teaching material
